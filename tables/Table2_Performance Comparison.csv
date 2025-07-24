@@ -1,0 +1,5 @@
+Metric,FedGenAI (Ours),Centralized GenAI,FL + BERT,Local Only
+F1-Score,0.92,0.87,0.85,0.78
+ROUGE-L,0.71,0.62,0.59,0.5
+Privacy (ε),5.0,N/A,7.5,N/A
+Comm. Cost (MB),850.0,1200,1400.0,0
