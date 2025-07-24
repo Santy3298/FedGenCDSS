@@ -1,0 +1,36 @@
+
+FedGenAI-CDSS Evaluation Summary
+--------------------------------
+
+Model: FedGenAI (Federated Generative AI for Clinical Decision Support)
+
+Overall Performance:
+---------------------
+- Precision (micro):      0.91
+- Recall (micro):         0.90
+- F1 Score (micro):       0.905
+
+- Precision (macro):      0.89
+- Recall (macro):         0.88
+- F1 Score (macro):       0.885
+
+- Accuracy:               89.6%
+- ROUGE-L Score:          0.71
+- BLEU Score:             0.68
+
+Privacy and Efficiency:
+------------------------
+- Differential Privacy Budget (ε):   5.0
+- Communication Cost (Average):      850 MB
+- Inference Latency:                 120 ms
+- Model Footprint:                   310 MB
+
+Comparison Baselines:
+----------------------
+- Centralized GenAI F1 Score:        0.87
+- FL + BERT F1 Score:                0.85
+- Local Only F1 Score:               0.78
+
+Notes:
+-------
+FedGenAI demonstrates a strong balance between performance, privacy, and deployment feasibility—making it suitable for real-world clinical decision support systems in decentralized healthcare networks.
