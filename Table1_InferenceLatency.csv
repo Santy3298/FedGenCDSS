@@ -1,0 +1,4 @@
+Model,Inference Latency (ms),Model Footprint (MB),Deployment Target
+FedGenAI (Ours),120,310,Edge Node
+Centralized GenAI,250,560,Cloud Server
+Local Baseline,95,200,Local Device
