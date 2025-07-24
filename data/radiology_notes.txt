@@ -1,0 +1,915 @@
+Patient 1001:
+Echocardiogram reveals hepatic steatosis. Recommend follow-up in 6 months.
+
+Patient 1002:
+MRI reveals no acute intracranial hemorrhage. Clinical correlation advised.
+
+Patient 1003:
+Renal imaging reveals no acute intracranial hemorrhage. Routine monitoring advised.
+
+Patient 1004:
+Ultrasound reveals benign thyroid nodule. Routine monitoring advised.
+
+Patient 1005:
+CT reveals mild cardiomegaly. No immediate intervention needed.
+
+Patient 1006:
+Ultrasound reveals brain MRI unremarkable. No immediate intervention needed.
+
+Patient 1007:
+Echocardiogram reveals moderate aortic calcification. Recommend lifestyle modification.
+
+Patient 1008:
+CT reveals mild sinus inflammation. Consider metabolic panel testing.
+
+Patient 1009:
+PET scan reveals evidence of arterial plaque buildup. Suggest cardiovascular risk assessment.
+
+Patient 1010:
+Renal imaging reveals benign thyroid nodule. Clinical correlation advised.
+
+Patient 1011:
+Ultrasound reveals mild sinus inflammation. Clinical correlation advised.
+
+Patient 1012:
+PET scan reveals brain MRI unremarkable. Recommend lifestyle modification.
+
+Patient 1013:
+Echocardiogram reveals mild cerebral atrophy. Recommend lifestyle modification.
+
+Patient 1014:
+CT reveals reduced cortical thickness in parietal lobe. Routine monitoring advised.
+
+Patient 1015:
+Echocardiogram reveals mild cerebral atrophy. Referral to specialist recommended.
+
+Patient 1016:
+Renal imaging reveals moderate aortic calcification. Recommend lifestyle modification.
+
+Patient 1017:
+CT reveals early-stage hypertension. Routine monitoring advised.
+
+Patient 1018:
+Chest X-ray reveals reduced cortical thickness in parietal lobe. Consider metabolic panel testing.
+
+Patient 1019:
+MRI reveals reduced cortical thickness in parietal lobe. Recommend lifestyle modification.
+
+Patient 1020:
+PET scan reveals no acute intracranial hemorrhage. Recommend lifestyle modification.
+
+Patient 1021:
+PET scan reveals hepatic steatosis. Consider metabolic panel testing.
+
+Patient 1022:
+PET scan reveals hepatic steatosis. No immediate intervention needed.
+
+Patient 1023:
+Chest X-ray reveals moderate aortic calcification. Clinical correlation advised.
+
+Patient 1024:
+Renal imaging reveals no signs of pulmonary embolism. Referral to specialist recommended.
+
+Patient 1025:
+Renal imaging reveals hepatic steatosis. Recommend further evaluation.
+
+Patient 1026:
+Chest X-ray reveals mild sinus inflammation. Clinical correlation advised.
+
+Patient 1027:
+Chest X-ray reveals mild cardiomegaly. Recommend lifestyle modification.
+
+Patient 1028:
+Renal imaging reveals benign thyroid nodule. Recommend further evaluation.
+
+Patient 1029:
+Chest X-ray reveals hepatic steatosis. Routine monitoring advised.
+
+Patient 1030:
+CT reveals benign thyroid nodule. No immediate intervention needed.
+
+Patient 1031:
+Ultrasound reveals brain MRI unremarkable. Clinical correlation advised.
+
+Patient 1032:
+Chest X-ray reveals reduced cortical thickness in parietal lobe. Recommend follow-up in 6 months.
+
+Patient 1033:
+PET scan reveals mild cerebral atrophy. No immediate intervention needed.
+
+Patient 1034:
+Chest X-ray reveals no signs of pulmonary embolism. Routine monitoring advised.
+
+Patient 1035:
+CT reveals early-stage hypertension. Clinical correlation advised.
+
+Patient 1036:
+Echocardiogram reveals no acute intracranial hemorrhage. Routine monitoring advised.
+
+Patient 1037:
+PET scan reveals hepatic steatosis. No immediate intervention needed.
+
+Patient 1038:
+Renal imaging reveals pulmonary nodules noted. Consider metabolic panel testing.
+
+Patient 1039:
+CT reveals hepatic steatosis. Recommend lifestyle modification.
+
+Patient 1040:
+Echocardiogram reveals mild cardiomegaly. Referral to specialist recommended.
+
+Patient 1041:
+Echocardiogram reveals hepatic steatosis. Referral to specialist recommended.
+
+Patient 1042:
+Ultrasound reveals mild sinus inflammation. Suggest cardiovascular risk assessment.
+
+Patient 1043:
+Chest X-ray reveals moderate aortic calcification. Further imaging advised if symptoms persist.
+
+Patient 1044:
+Echocardiogram reveals early-stage hypertension. Further imaging advised if symptoms persist.
+
+Patient 1045:
+CT reveals benign thyroid nodule. Recommend follow-up in 6 months.
+
+Patient 1046:
+CT reveals early-stage hypertension. Consider metabolic panel testing.
+
+Patient 1047:
+Echocardiogram reveals mild sinus inflammation. Referral to specialist recommended.
+
+Patient 1048:
+Chest X-ray reveals hepatic steatosis. Routine monitoring advised.
+
+Patient 1049:
+PET scan reveals mild sinus inflammation. Clinical correlation advised.
+
+Patient 1050:
+Echocardiogram reveals benign thyroid nodule. Recommend follow-up in 6 months.
+
+Patient 1051:
+MRI reveals mild sinus inflammation. Suggest cardiovascular risk assessment.
+
+Patient 1052:
+Chest X-ray reveals benign thyroid nodule. Routine monitoring advised.
+
+Patient 1053:
+Chest X-ray reveals pulmonary nodules noted. Recommend follow-up in 6 months.
+
+Patient 1054:
+CT reveals reduced cortical thickness in parietal lobe. Recommend follow-up in 6 months.
+
+Patient 1055:
+MRI reveals moderate aortic calcification. Clinical correlation advised.
+
+Patient 1056:
+Renal imaging reveals evidence of arterial plaque buildup. Consider metabolic panel testing.
+
+Patient 1057:
+Ultrasound reveals brain MRI unremarkable. Clinical correlation advised.
+
+Patient 1058:
+MRI reveals pulmonary nodules noted. Recommend follow-up in 6 months.
+
+Patient 1059:
+PET scan reveals early-stage hypertension. Further imaging advised if symptoms persist.
+
+Patient 1060:
+Renal imaging reveals hepatic steatosis. Recommend further evaluation.
+
+Patient 1061:
+Renal imaging reveals mild sinus inflammation. Recommend follow-up in 6 months.
+
+Patient 1062:
+CT reveals pleural effusion observed. Consider metabolic panel testing.
+
+Patient 1063:
+PET scan reveals mild sinus inflammation. Recommend further evaluation.
+
+Patient 1064:
+Chest X-ray reveals pulmonary nodules noted. Suggest cardiovascular risk assessment.
+
+Patient 1065:
+CT reveals moderate aortic calcification. Recommend follow-up in 6 months.
+
+Patient 1066:
+Chest X-ray reveals moderate aortic calcification. Routine monitoring advised.
+
+Patient 1067:
+Echocardiogram reveals evidence of arterial plaque buildup. Routine monitoring advised.
+
+Patient 1068:
+CT reveals renal artery calcification. Referral to specialist recommended.
+
+Patient 1069:
+CT reveals reduced cortical thickness in parietal lobe. Further imaging advised if symptoms persist.
+
+Patient 1070:
+Renal imaging reveals mild cardiomegaly. Consider metabolic panel testing.
+
+Patient 1071:
+Chest X-ray reveals brain MRI unremarkable. Referral to specialist recommended.
+
+Patient 1072:
+CT reveals brain MRI unremarkable. Routine monitoring advised.
+
+Patient 1073:
+MRI reveals renal artery calcification. Recommend follow-up in 6 months.
+
+Patient 1074:
+Echocardiogram reveals reduced cortical thickness in parietal lobe. Clinical correlation advised.
+
+Patient 1075:
+Renal imaging reveals moderate aortic calcification. Routine monitoring advised.
+
+Patient 1076:
+Ultrasound reveals evidence of arterial plaque buildup. Clinical correlation advised.
+
+Patient 1077:
+PET scan reveals pulmonary nodules noted. No immediate intervention needed.
+
+Patient 1078:
+Echocardiogram reveals brain MRI unremarkable. Recommend follow-up in 6 months.
+
+Patient 1079:
+Ultrasound reveals pleural effusion observed. Referral to specialist recommended.
+
+Patient 1080:
+Chest X-ray reveals moderate aortic calcification. Referral to specialist recommended.
+
+Patient 1081:
+CT reveals no signs of pulmonary embolism. Clinical correlation advised.
+
+Patient 1082:
+Echocardiogram reveals renal artery calcification. Recommend further evaluation.
+
+Patient 1083:
+Ultrasound reveals reduced cortical thickness in parietal lobe. Recommend lifestyle modification.
+
+Patient 1084:
+MRI reveals pleural effusion observed. Recommend lifestyle modification.
+
+Patient 1085:
+MRI reveals evidence of arterial plaque buildup. Recommend further evaluation.
+
+Patient 1086:
+Renal imaging reveals pleural effusion observed. Recommend further evaluation.
+
+Patient 1087:
+PET scan reveals moderate aortic calcification. Consider metabolic panel testing.
+
+Patient 1088:
+Ultrasound reveals brain MRI unremarkable. Routine monitoring advised.
+
+Patient 1089:
+Ultrasound reveals benign thyroid nodule. Consider metabolic panel testing.
+
+Patient 1090:
+Ultrasound reveals pleural effusion observed. Routine monitoring advised.
+
+Patient 1091:
+Ultrasound reveals mild sinus inflammation. Clinical correlation advised.
+
+Patient 1092:
+Echocardiogram reveals brain MRI unremarkable. Routine monitoring advised.
+
+Patient 1093:
+CT reveals mild sinus inflammation. Recommend lifestyle modification.
+
+Patient 1094:
+PET scan reveals evidence of arterial plaque buildup. Recommend further evaluation.
+
+Patient 1095:
+MRI reveals mild cerebral atrophy. Consider metabolic panel testing.
+
+Patient 1096:
+Echocardiogram reveals no signs of pulmonary embolism. Routine monitoring advised.
+
+Patient 1097:
+MRI reveals no signs of pulmonary embolism. Routine monitoring advised.
+
+Patient 1098:
+PET scan reveals reduced cortical thickness in parietal lobe. Recommend lifestyle modification.
+
+Patient 1099:
+MRI reveals pleural effusion observed. Clinical correlation advised.
+
+Patient 1100:
+PET scan reveals early-stage hypertension. Further imaging advised if symptoms persist.
+
+Patient 1101:
+MRI reveals hepatic steatosis. Referral to specialist recommended.
+
+Patient 1102:
+CT reveals benign thyroid nodule. Further imaging advised if symptoms persist.
+
+Patient 1103:
+MRI reveals mild cardiomegaly. Routine monitoring advised.
+
+Patient 1104:
+Echocardiogram reveals mild cardiomegaly. Routine monitoring advised.
+
+Patient 1105:
+Renal imaging reveals benign thyroid nodule. Recommend further evaluation.
+
+Patient 1106:
+Echocardiogram reveals no acute intracranial hemorrhage. Referral to specialist recommended.
+
+Patient 1107:
+MRI reveals benign thyroid nodule. Routine monitoring advised.
+
+Patient 1108:
+Echocardiogram reveals brain MRI unremarkable. Clinical correlation advised.
+
+Patient 1109:
+Echocardiogram reveals pulmonary nodules noted. Further imaging advised if symptoms persist.
+
+Patient 1110:
+Renal imaging reveals no signs of pulmonary embolism. Suggest cardiovascular risk assessment.
+
+Patient 1111:
+CT reveals pulmonary nodules noted. Routine monitoring advised.
+
+Patient 1112:
+CT reveals hepatic steatosis. Recommend lifestyle modification.
+
+Patient 1113:
+MRI reveals benign thyroid nodule. Suggest cardiovascular risk assessment.
+
+Patient 1114:
+Chest X-ray reveals mild cardiomegaly. Referral to specialist recommended.
+
+Patient 1115:
+PET scan reveals reduced cortical thickness in parietal lobe. Consider metabolic panel testing.
+
+Patient 1116:
+Renal imaging reveals hepatic steatosis. Suggest cardiovascular risk assessment.
+
+Patient 1117:
+MRI reveals mild cerebral atrophy. Clinical correlation advised.
+
+Patient 1118:
+CT reveals early-stage hypertension. Clinical correlation advised.
+
+Patient 1119:
+Ultrasound reveals benign thyroid nodule. No immediate intervention needed.
+
+Patient 1120:
+Echocardiogram reveals mild sinus inflammation. Consider metabolic panel testing.
+
+Patient 1121:
+Ultrasound reveals renal artery calcification. Consider metabolic panel testing.
+
+Patient 1122:
+Renal imaging reveals evidence of arterial plaque buildup. Suggest cardiovascular risk assessment.
+
+Patient 1123:
+PET scan reveals no signs of pulmonary embolism. Consider metabolic panel testing.
+
+Patient 1124:
+Ultrasound reveals mild cerebral atrophy. Referral to specialist recommended.
+
+Patient 1125:
+Echocardiogram reveals mild cerebral atrophy. Clinical correlation advised.
+
+Patient 1126:
+Chest X-ray reveals early-stage hypertension. Referral to specialist recommended.
+
+Patient 1127:
+Echocardiogram reveals pulmonary nodules noted. Recommend further evaluation.
+
+Patient 1128:
+Ultrasound reveals evidence of arterial plaque buildup. Recommend lifestyle modification.
+
+Patient 1129:
+MRI reveals hepatic steatosis. Referral to specialist recommended.
+
+Patient 1130:
+Echocardiogram reveals brain MRI unremarkable. No immediate intervention needed.
+
+Patient 1131:
+Ultrasound reveals benign thyroid nodule. Routine monitoring advised.
+
+Patient 1132:
+Renal imaging reveals no acute intracranial hemorrhage. Recommend further evaluation.
+
+Patient 1133:
+Chest X-ray reveals mild sinus inflammation. Routine monitoring advised.
+
+Patient 1134:
+CT reveals reduced cortical thickness in parietal lobe. Routine monitoring advised.
+
+Patient 1135:
+Echocardiogram reveals brain MRI unremarkable. Routine monitoring advised.
+
+Patient 1136:
+CT reveals no signs of pulmonary embolism. Routine monitoring advised.
+
+Patient 1137:
+Chest X-ray reveals no signs of pulmonary embolism. Referral to specialist recommended.
+
+Patient 1138:
+Ultrasound reveals hepatic steatosis. Recommend further evaluation.
+
+Patient 1139:
+Chest X-ray reveals mild sinus inflammation. Recommend further evaluation.
+
+Patient 1140:
+MRI reveals no acute intracranial hemorrhage. No immediate intervention needed.
+
+Patient 1141:
+Renal imaging reveals hepatic steatosis. Recommend follow-up in 6 months.
+
+Patient 1142:
+PET scan reveals mild cardiomegaly. Suggest cardiovascular risk assessment.
+
+Patient 1143:
+Chest X-ray reveals no signs of pulmonary embolism. Referral to specialist recommended.
+
+Patient 1144:
+MRI reveals reduced cortical thickness in parietal lobe. Recommend lifestyle modification.
+
+Patient 1145:
+Renal imaging reveals pleural effusion observed. Suggest cardiovascular risk assessment.
+
+Patient 1146:
+Chest X-ray reveals pleural effusion observed. Recommend further evaluation.
+
+Patient 1147:
+Chest X-ray reveals reduced cortical thickness in parietal lobe. Clinical correlation advised.
+
+Patient 1148:
+MRI reveals mild cardiomegaly. Routine monitoring advised.
+
+Patient 1149:
+CT reveals brain MRI unremarkable. Further imaging advised if symptoms persist.
+
+Patient 1150:
+Ultrasound reveals pulmonary nodules noted. Routine monitoring advised.
+
+Patient 1151:
+Renal imaging reveals renal artery calcification. Routine monitoring advised.
+
+Patient 1152:
+Chest X-ray reveals mild sinus inflammation. Consider metabolic panel testing.
+
+Patient 1153:
+PET scan reveals pleural effusion observed. Recommend lifestyle modification.
+
+Patient 1154:
+Renal imaging reveals mild sinus inflammation. Recommend further evaluation.
+
+Patient 1155:
+PET scan reveals mild cerebral atrophy. Suggest cardiovascular risk assessment.
+
+Patient 1156:
+Chest X-ray reveals hepatic steatosis. Clinical correlation advised.
+
+Patient 1157:
+PET scan reveals moderate aortic calcification. Recommend follow-up in 6 months.
+
+Patient 1158:
+CT reveals mild cardiomegaly. Consider metabolic panel testing.
+
+Patient 1159:
+PET scan reveals benign thyroid nodule. No immediate intervention needed.
+
+Patient 1160:
+CT reveals pulmonary nodules noted. Recommend lifestyle modification.
+
+Patient 1161:
+PET scan reveals evidence of arterial plaque buildup. Clinical correlation advised.
+
+Patient 1162:
+PET scan reveals early-stage hypertension. Recommend further evaluation.
+
+Patient 1163:
+PET scan reveals no acute intracranial hemorrhage. Recommend lifestyle modification.
+
+Patient 1164:
+Ultrasound reveals pulmonary nodules noted. Clinical correlation advised.
+
+Patient 1165:
+Echocardiogram reveals renal artery calcification. Consider metabolic panel testing.
+
+Patient 1166:
+Echocardiogram reveals benign thyroid nodule. No immediate intervention needed.
+
+Patient 1167:
+PET scan reveals no acute intracranial hemorrhage. Routine monitoring advised.
+
+Patient 1168:
+Echocardiogram reveals renal artery calcification. Suggest cardiovascular risk assessment.
+
+Patient 1169:
+Ultrasound reveals evidence of arterial plaque buildup. Referral to specialist recommended.
+
+Patient 1170:
+Chest X-ray reveals mild cardiomegaly. No immediate intervention needed.
+
+Patient 1171:
+Ultrasound reveals mild cardiomegaly. Recommend follow-up in 6 months.
+
+Patient 1172:
+Ultrasound reveals reduced cortical thickness in parietal lobe. Referral to specialist recommended.
+
+Patient 1173:
+CT reveals mild sinus inflammation. Consider metabolic panel testing.
+
+Patient 1174:
+Echocardiogram reveals renal artery calcification. No immediate intervention needed.
+
+Patient 1175:
+MRI reveals mild sinus inflammation. No immediate intervention needed.
+
+Patient 1176:
+Renal imaging reveals hepatic steatosis. Suggest cardiovascular risk assessment.
+
+Patient 1177:
+Ultrasound reveals renal artery calcification. Further imaging advised if symptoms persist.
+
+Patient 1178:
+Renal imaging reveals no acute intracranial hemorrhage. Routine monitoring advised.
+
+Patient 1179:
+MRI reveals early-stage hypertension. Further imaging advised if symptoms persist.
+
+Patient 1180:
+Ultrasound reveals pulmonary nodules noted. Recommend further evaluation.
+
+Patient 1181:
+Chest X-ray reveals hepatic steatosis. Routine monitoring advised.
+
+Patient 1182:
+Renal imaging reveals renal artery calcification. Consider metabolic panel testing.
+
+Patient 1183:
+Renal imaging reveals reduced cortical thickness in parietal lobe. Consider metabolic panel testing.
+
+Patient 1184:
+PET scan reveals moderate aortic calcification. Referral to specialist recommended.
+
+Patient 1185:
+Echocardiogram reveals reduced cortical thickness in parietal lobe. Referral to specialist recommended.
+
+Patient 1186:
+MRI reveals no acute intracranial hemorrhage. No immediate intervention needed.
+
+Patient 1187:
+Chest X-ray reveals pulmonary nodules noted. Clinical correlation advised.
+
+Patient 1188:
+PET scan reveals benign thyroid nodule. Consider metabolic panel testing.
+
+Patient 1189:
+Ultrasound reveals mild sinus inflammation. Consider metabolic panel testing.
+
+Patient 1190:
+MRI reveals benign thyroid nodule. Recommend further evaluation.
+
+Patient 1191:
+MRI reveals mild cerebral atrophy. Recommend lifestyle modification.
+
+Patient 1192:
+MRI reveals pulmonary nodules noted. Further imaging advised if symptoms persist.
+
+Patient 1193:
+Renal imaging reveals reduced cortical thickness in parietal lobe. Consider metabolic panel testing.
+
+Patient 1194:
+CT reveals no signs of pulmonary embolism. Consider metabolic panel testing.
+
+Patient 1195:
+Renal imaging reveals brain MRI unremarkable. No immediate intervention needed.
+
+Patient 1196:
+Echocardiogram reveals mild sinus inflammation. Consider metabolic panel testing.
+
+Patient 1197:
+Chest X-ray reveals brain MRI unremarkable. Clinical correlation advised.
+
+Patient 1198:
+Chest X-ray reveals pulmonary nodules noted. Routine monitoring advised.
+
+Patient 1199:
+PET scan reveals early-stage hypertension. Recommend follow-up in 6 months.
+
+Patient 1200:
+Echocardiogram reveals mild sinus inflammation. Recommend further evaluation.
+
+Patient 1201:
+Echocardiogram reveals mild sinus inflammation. Recommend follow-up in 6 months.
+
+Patient 1202:
+Chest X-ray reveals mild cerebral atrophy. Referral to specialist recommended.
+
+Patient 1203:
+Renal imaging reveals pleural effusion observed. Referral to specialist recommended.
+
+Patient 1204:
+Renal imaging reveals reduced cortical thickness in parietal lobe. Recommend further evaluation.
+
+Patient 1205:
+Renal imaging reveals no signs of pulmonary embolism. Clinical correlation advised.
+
+Patient 1206:
+PET scan reveals mild cerebral atrophy. Clinical correlation advised.
+
+Patient 1207:
+PET scan reveals no acute intracranial hemorrhage. Suggest cardiovascular risk assessment.
+
+Patient 1208:
+MRI reveals mild cardiomegaly. Routine monitoring advised.
+
+Patient 1209:
+PET scan reveals no acute intracranial hemorrhage. Recommend lifestyle modification.
+
+Patient 1210:
+MRI reveals no acute intracranial hemorrhage. No immediate intervention needed.
+
+Patient 1211:
+PET scan reveals brain MRI unremarkable. Further imaging advised if symptoms persist.
+
+Patient 1212:
+MRI reveals no acute intracranial hemorrhage. Consider metabolic panel testing.
+
+Patient 1213:
+PET scan reveals mild sinus inflammation. Clinical correlation advised.
+
+Patient 1214:
+Ultrasound reveals mild sinus inflammation. Clinical correlation advised.
+
+Patient 1215:
+Ultrasound reveals no acute intracranial hemorrhage. Clinical correlation advised.
+
+Patient 1216:
+Ultrasound reveals mild cardiomegaly. Suggest cardiovascular risk assessment.
+
+Patient 1217:
+Renal imaging reveals brain MRI unremarkable. Suggest cardiovascular risk assessment.
+
+Patient 1218:
+Ultrasound reveals no acute intracranial hemorrhage. Further imaging advised if symptoms persist.
+
+Patient 1219:
+PET scan reveals pulmonary nodules noted. Suggest cardiovascular risk assessment.
+
+Patient 1220:
+PET scan reveals no signs of pulmonary embolism. Routine monitoring advised.
+
+Patient 1221:
+Ultrasound reveals pleural effusion observed. Clinical correlation advised.
+
+Patient 1222:
+PET scan reveals no acute intracranial hemorrhage. Recommend follow-up in 6 months.
+
+Patient 1223:
+CT reveals reduced cortical thickness in parietal lobe. Suggest cardiovascular risk assessment.
+
+Patient 1224:
+CT reveals benign thyroid nodule. No immediate intervention needed.
+
+Patient 1225:
+Ultrasound reveals mild cardiomegaly. Suggest cardiovascular risk assessment.
+
+Patient 1226:
+Renal imaging reveals no acute intracranial hemorrhage. Consider metabolic panel testing.
+
+Patient 1227:
+Ultrasound reveals mild cerebral atrophy. Routine monitoring advised.
+
+Patient 1228:
+Ultrasound reveals mild cardiomegaly. Recommend further evaluation.
+
+Patient 1229:
+Chest X-ray reveals evidence of arterial plaque buildup. Clinical correlation advised.
+
+Patient 1230:
+Renal imaging reveals evidence of arterial plaque buildup. Recommend follow-up in 6 months.
+
+Patient 1231:
+Renal imaging reveals brain MRI unremarkable. Routine monitoring advised.
+
+Patient 1232:
+PET scan reveals pulmonary nodules noted. Clinical correlation advised.
+
+Patient 1233:
+MRI reveals brain MRI unremarkable. Suggest cardiovascular risk assessment.
+
+Patient 1234:
+PET scan reveals evidence of arterial plaque buildup. Consider metabolic panel testing.
+
+Patient 1235:
+MRI reveals hepatic steatosis. No immediate intervention needed.
+
+Patient 1236:
+MRI reveals mild cardiomegaly. Further imaging advised if symptoms persist.
+
+Patient 1237:
+Renal imaging reveals brain MRI unremarkable. Referral to specialist recommended.
+
+Patient 1238:
+Ultrasound reveals hepatic steatosis. Further imaging advised if symptoms persist.
+
+Patient 1239:
+Chest X-ray reveals pulmonary nodules noted. Recommend follow-up in 6 months.
+
+Patient 1240:
+Echocardiogram reveals benign thyroid nodule. Recommend further evaluation.
+
+Patient 1241:
+Echocardiogram reveals benign thyroid nodule. Further imaging advised if symptoms persist.
+
+Patient 1242:
+PET scan reveals no signs of pulmonary embolism. Referral to specialist recommended.
+
+Patient 1243:
+Echocardiogram reveals pulmonary nodules noted. Further imaging advised if symptoms persist.
+
+Patient 1244:
+Ultrasound reveals renal artery calcification. Recommend further evaluation.
+
+Patient 1245:
+PET scan reveals early-stage hypertension. Suggest cardiovascular risk assessment.
+
+Patient 1246:
+CT reveals mild sinus inflammation. Recommend follow-up in 6 months.
+
+Patient 1247:
+Ultrasound reveals mild cardiomegaly. Recommend further evaluation.
+
+Patient 1248:
+Chest X-ray reveals benign thyroid nodule. Referral to specialist recommended.
+
+Patient 1249:
+Renal imaging reveals evidence of arterial plaque buildup. Recommend lifestyle modification.
+
+Patient 1250:
+CT reveals mild cerebral atrophy. Clinical correlation advised.
+
+Patient 1251:
+MRI reveals mild sinus inflammation. Suggest cardiovascular risk assessment.
+
+Patient 1252:
+Echocardiogram reveals hepatic steatosis. Recommend follow-up in 6 months.
+
+Patient 1253:
+MRI reveals pulmonary nodules noted. Further imaging advised if symptoms persist.
+
+Patient 1254:
+Renal imaging reveals pulmonary nodules noted. Suggest cardiovascular risk assessment.
+
+Patient 1255:
+MRI reveals pulmonary nodules noted. Recommend follow-up in 6 months.
+
+Patient 1256:
+Ultrasound reveals benign thyroid nodule. Suggest cardiovascular risk assessment.
+
+Patient 1257:
+Chest X-ray reveals renal artery calcification. Recommend lifestyle modification.
+
+Patient 1258:
+CT reveals no signs of pulmonary embolism. Recommend further evaluation.
+
+Patient 1259:
+Chest X-ray reveals no acute intracranial hemorrhage. Routine monitoring advised.
+
+Patient 1260:
+PET scan reveals benign thyroid nodule. Suggest cardiovascular risk assessment.
+
+Patient 1261:
+PET scan reveals pulmonary nodules noted. No immediate intervention needed.
+
+Patient 1262:
+PET scan reveals mild cerebral atrophy. Referral to specialist recommended.
+
+Patient 1263:
+Ultrasound reveals mild cardiomegaly. Recommend lifestyle modification.
+
+Patient 1264:
+MRI reveals no signs of pulmonary embolism. Recommend follow-up in 6 months.
+
+Patient 1265:
+Ultrasound reveals early-stage hypertension. Recommend further evaluation.
+
+Patient 1266:
+PET scan reveals hepatic steatosis. Further imaging advised if symptoms persist.
+
+Patient 1267:
+PET scan reveals hepatic steatosis. Consider metabolic panel testing.
+
+Patient 1268:
+Ultrasound reveals benign thyroid nodule. Recommend follow-up in 6 months.
+
+Patient 1269:
+PET scan reveals brain MRI unremarkable. Consider metabolic panel testing.
+
+Patient 1270:
+Echocardiogram reveals mild sinus inflammation. Consider metabolic panel testing.
+
+Patient 1271:
+Renal imaging reveals mild sinus inflammation. Referral to specialist recommended.
+
+Patient 1272:
+Renal imaging reveals reduced cortical thickness in parietal lobe. Recommend lifestyle modification.
+
+Patient 1273:
+MRI reveals early-stage hypertension. Clinical correlation advised.
+
+Patient 1274:
+Ultrasound reveals benign thyroid nodule. Recommend further evaluation.
+
+Patient 1275:
+CT reveals mild sinus inflammation. Recommend follow-up in 6 months.
+
+Patient 1276:
+Echocardiogram reveals pulmonary nodules noted. Suggest cardiovascular risk assessment.
+
+Patient 1277:
+Renal imaging reveals evidence of arterial plaque buildup. Recommend further evaluation.
+
+Patient 1278:
+PET scan reveals pulmonary nodules noted. Clinical correlation advised.
+
+Patient 1279:
+Echocardiogram reveals no acute intracranial hemorrhage. Recommend further evaluation.
+
+Patient 1280:
+Renal imaging reveals moderate aortic calcification. Further imaging advised if symptoms persist.
+
+Patient 1281:
+Renal imaging reveals mild sinus inflammation. Recommend follow-up in 6 months.
+
+Patient 1282:
+Chest X-ray reveals no signs of pulmonary embolism. Referral to specialist recommended.
+
+Patient 1283:
+CT reveals hepatic steatosis. Consider metabolic panel testing.
+
+Patient 1284:
+Ultrasound reveals pulmonary nodules noted. Recommend lifestyle modification.
+
+Patient 1285:
+Renal imaging reveals no acute intracranial hemorrhage. Consider metabolic panel testing.
+
+Patient 1286:
+Chest X-ray reveals benign thyroid nodule. Consider metabolic panel testing.
+
+Patient 1287:
+Chest X-ray reveals no signs of pulmonary embolism. Further imaging advised if symptoms persist.
+
+Patient 1288:
+PET scan reveals pleural effusion observed. Routine monitoring advised.
+
+Patient 1289:
+Chest X-ray reveals reduced cortical thickness in parietal lobe. Recommend further evaluation.
+
+Patient 1290:
+Echocardiogram reveals hepatic steatosis. Clinical correlation advised.
+
+Patient 1291:
+PET scan reveals benign thyroid nodule. Further imaging advised if symptoms persist.
+
+Patient 1292:
+Ultrasound reveals benign thyroid nodule. Clinical correlation advised.
+
+Patient 1293:
+CT reveals pulmonary nodules noted. Referral to specialist recommended.
+
+Patient 1294:
+MRI reveals early-stage hypertension. Recommend lifestyle modification.
+
+Patient 1295:
+Ultrasound reveals pleural effusion observed. Consider metabolic panel testing.
+
+Patient 1296:
+Ultrasound reveals reduced cortical thickness in parietal lobe. Clinical correlation advised.
+
+Patient 1297:
+Ultrasound reveals pleural effusion observed. Referral to specialist recommended.
+
+Patient 1298:
+Chest X-ray reveals brain MRI unremarkable. Clinical correlation advised.
+
+Patient 1299:
+Renal imaging reveals benign thyroid nodule. Recommend follow-up in 6 months.
+
+Patient 1300:
+MRI reveals mild sinus inflammation. Recommend further evaluation.
+
+Patient 1301:
+Ultrasound reveals no signs of pulmonary embolism. Suggest cardiovascular risk assessment.
+
+Patient 1302:
+Chest X-ray reveals hepatic steatosis. Referral to specialist recommended.
+
+Patient 1303:
+PET scan reveals brain MRI unremarkable. Further imaging advised if symptoms persist.
+
+Patient 1304:
+Renal imaging reveals mild sinus inflammation. Further imaging advised if symptoms persist.
+
+Patient 1305:
+Renal imaging reveals hepatic steatosis. Suggest cardiovascular risk assessment.
+
