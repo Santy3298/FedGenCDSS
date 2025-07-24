@@ -1,0 +1,7 @@
+import numpy as np
+
+# Simulated ECG data (3000 samples x 12 leads)
+ecg_data = np.random.normal(loc=0.0, scale=0.5, size=(3000, 12))
+
+# Save to .npy file
+np.save("sample_ecg.npy", ecg_data)
